@@ -6,4 +6,4 @@ but what to do lets do it anyway
 
 
 
-yes i am editting it to see other commits differring or not
+yes i am editting it to see another commit to same file
