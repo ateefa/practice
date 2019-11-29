@@ -1,0 +1,5 @@
+hello i am the first file in this repo
+this repo is purely for practice purpose
+and git is being practised via this
+yeah lame i know
+but what to do lets do it anyway
